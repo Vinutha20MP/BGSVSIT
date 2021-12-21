@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Oooh+Baby&display=swap');
+body{
+    background-color: #b8acac;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subjects{
+    background-color: lightblue;
+    padding:1%;
+    
+}
+h1{
+    color:rgb(107, 28, 71);
+    align-content: center;
+}
+.subjects h3{
+    background-color: rgb(99, 114, 98);
+    color: brown;
+    padding:1%;
+    font-style: italic;
+    text-decoration: underline;
+    letter-spacing: 0.2em;
+    word-spacing: 0.8em;
+}
+
+p{
+    color: hsl(339,87%,20%);
+    font-family: 'Imperial Script', Helvetica, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.6em;
+}
+#second-p{
+    color:rgb(21, 21, 126);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: 800;
+}
+#box-model{
+    background-color: lightgray;
+    width: 300px;
+    border:15px solid black;
+    padding:50px;
+    margin: 5px 10px;
+}
+.subjects
+{
+    border: 1px solid rgb(92,85,85);
+    padding: 10px;
+    border-radius: 15px;
+}
+.subjects h2{
+    text-align: center;
+    color: tomato;
+}
+.subjects ul{
+    padding: 0;
+    list-style: none;
+    background: #3399ff;
+    padding: 20px;
+}
+.subjects a{
+    text-decoration: none;
+    color: black;
+}
+.subjects a:hover{
+    text-decoration: underline;
+    color: rgb(7, 34, 13);
+   
+}
+.subjects li{
+    padding-bottom: 15px;
+    border-bottom: 1px dotted rgb(131, 82, 82);
+   
+    background: #cce5ff;
+    margin: 5px;
+}
+
+.my-form{
+    padding:20px;
+    background-color: rgb(115, 131, 84);
+}
+.my-form, .form-group{
+    padding-bottom: 15px;
+   
+}
+.my-form label{
+    display:block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.my-form input[type="text"], .my-form textarea, .my-form input[type="date"]{
+    padding: 8px;
+    width:50%;
+    border-radius: 10px;
+}
+
+input[type=file]::file-selector-button {
+    border: 2px solid #6c5ce7;
+    padding: .2em .4em;
+    border-radius: .2em;
+    background-color: #a29bfe;
+    transition: 1s;
+  }
+  
+  input[type=file]::file-selector-button:hover {
+    background-color: #81ecec;
+    border: 2px solid #00cec9;
+  }
+
+.button:hover{
+    background-color: #88658a;
+}
+.button{
+    display: inline-block;
+    background-color: #45cf83;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;    
+    align-content: center;
+}
+
