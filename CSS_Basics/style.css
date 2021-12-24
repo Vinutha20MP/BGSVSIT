@@ -143,7 +143,7 @@ p{
     height: 500px;
     border: 1px solid black;
     position: relative;
-    background-image: url('./images/large-unsplash.jpg');
+    background-image: url('./images/large-unsplash.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
 }
