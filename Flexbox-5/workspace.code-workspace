@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../Flexbox-1"
+		},
+		{
+			"path": "../Flexbox-2"
+		},
+		{
+			"path": "../Flexbox-3"
+		},
+		{
+			"path": "../Flexbox-4"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Flexbox-4"
+	}
+}
