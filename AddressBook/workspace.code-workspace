@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Converter"
+		},
+		{
+			"path": "../Two Color Flipper"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AddressBook"
+	}
+}
